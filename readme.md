@@ -74,7 +74,7 @@ Hospital-Management-System-Cura_System/
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/Muhamad-Ahmed/Hospital-Management-System-Cura_System-.git
+   git clone https://github.com/ahmed-shahidd/Hospital-Management-System-Cura_System-.git
    cd Hospital-Management-System-Cura_System-
    ```
 
@@ -147,6 +147,6 @@ You are free to use, modify, and distribute this software with proper attributio
 ## ✉️ Contact
 
 **Muhamad Ahmed**  
-GitHub: [@Muhamad-Ahmed](https://github.com/Muhamad-Ahmed)  
+GitHub: [@Muhamad-Ahmed](https://github.com/ahmed-shahidd)  
 LinkedIn: [linkedin.com/in/muhamad-ahmed](https://www.linkedin.com/in/ahmed-shahidd/)  
 Email: ahmedshahid20222@gmail.com
